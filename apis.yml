@@ -11,6 +11,17 @@ description: 'Achates Power is a San Diego, California engine technology company
   of Energy and ARPA-E funding and partners with engine manufacturers such as Fairbanks
   Morse. It is a privately held hardware and engineering licensing business and publishes
   no public developer program, API, or machine-readable API artifacts.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://achatespower.com/wp-content/uploads/2019/10/AchatesPower_Logo_RBG.svg
 url: https://raw.githubusercontent.com/api-evangelist/achates-power/refs/heads/main/apis.yml
 x-type: company
